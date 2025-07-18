@@ -1,0 +1,14 @@
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.AssemblyInfoInputs.cache
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.AssemblyInfo.cs
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\bin\Debug\net8.0\BruteForceAlgorithm.exe
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\bin\Debug\net8.0\BruteForceAlgorithm.deps.json
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\bin\Debug\net8.0\BruteForceAlgorithm.runtimeconfig.json
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\bin\Debug\net8.0\BruteForceAlgorithm.dll
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\bin\Debug\net8.0\BruteForceAlgorithm.pdb
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.dll
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\refint\BruteForceAlgorithm.dll
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.pdb
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.genruntimeconfig.cache
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\ref\BruteForceAlgorithm.dll
