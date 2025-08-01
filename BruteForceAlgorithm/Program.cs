@@ -621,5 +621,6 @@ namespace BruteForceAlgorithm {
         static char[] stopChars = { ' ', '0', '1', '2' };
         static char[] stopChars2 = { '0', '1', '2' };
         static int currBoxY, currBoxX;
+
     }
 }

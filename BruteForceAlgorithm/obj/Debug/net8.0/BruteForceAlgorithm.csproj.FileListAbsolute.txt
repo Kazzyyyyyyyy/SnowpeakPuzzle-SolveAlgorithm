@@ -12,3 +12,4 @@ C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\ne
 C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.pdb
 C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.genruntimeconfig.cache
 C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\ref\BruteForceAlgorithm.dll
+C:\Users\staer\source\repos\BruteForceAlgorithm\BruteForceAlgorithm\obj\Debug\net8.0\BruteForceAlgorithm.sourcelink.json
